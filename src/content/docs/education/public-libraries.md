@@ -1,0 +1,6 @@
+---
+title: Public Libraries
+description: Discover public libraries in Warsaw
+---
+
+Public libraries are essential to our education and life whether you're an expat or not! Warsaw has branches in most of the different districts of the city where you can sign up for free and enjoy reading. Here's a list for [Public Libraries in Warsaw](https://www.bibliotekiwarszawy.pl/biblioteki-publiczne-warszawa/) but not all of them have foreign books. Therefore I recommend my favorite one [Biblioteka Publiczna im. Zygmunta Jana Rumla](https://www.bibliotekiwarszawy.pl/biblioteki-publiczne-warszawa/biblioteka-publiczna-im-z-j-rumla-w-dzielnicy-praga-poludnie-m-st-warszawy/) where you can find books in many languages as well as English, German, Ukrainian, Spanish, etc. Here you can find their own website [The Foreign Languages Library in The Zygmunt Jan Rumel Public Library in the Praga Południe District of the capital city of Warsaw](https://bppragapd.pl/oddzialy-biblioteki/the-foreign-languages-library). Last but not least, they have a free Polish language course for foreigners with an excellent teacher. If you want to sign up for this course just send them an email. 
