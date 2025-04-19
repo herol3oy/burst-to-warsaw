@@ -21,6 +21,10 @@ export default defineConfig({
           label: "Culture",
           autogenerate: { directory: "culture" },
         },
+        {
+          label: "Entertainment",
+          autogenerate: { directory: "entertainment" },
+        },
       ],
     }),
   ],
