@@ -11,23 +11,39 @@ export default defineConfig({
       sidebar: [
         {
           label: "Introduction",
-          autogenerate: { directory: "introduction" },
+          autogenerate: {
+            directory: "introduction",
+          },
         },
         {
           label: "Education",
-          autogenerate: { directory: "education" },
+          autogenerate: {
+            directory: "education",
+          },
         },
         {
           label: "Culture",
-          autogenerate: { directory: "culture" },
+          autogenerate: {
+            directory: "culture",
+          },
         },
         {
           label: "Entertainment",
-          autogenerate: { directory: "entertainment" },
+          autogenerate: {
+            directory: "entertainment",
+          },
         },
         {
           label: "Events",
-          autogenerate: { directory: "events" },
+          autogenerate: {
+            directory: "events",
+          },
+        },
+        {
+          label: "Volunteering",
+          autogenerate: {
+            directory: "volunteering",
+          },
         },
       ],
     }),
