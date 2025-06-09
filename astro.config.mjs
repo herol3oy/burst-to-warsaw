@@ -45,6 +45,12 @@ export default defineConfig({
             directory: "volunteering",
           },
         },
+        {
+          label: "Socializing",
+          autogenerate: {
+            directory: "socializing",
+          },
+        },
       ],
     }),
   ],
