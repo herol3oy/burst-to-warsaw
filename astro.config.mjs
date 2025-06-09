@@ -51,6 +51,12 @@ export default defineConfig({
             directory: "socializing",
           },
         },
+        {
+          label: "Bar Mleczny",
+          autogenerate: {
+            directory: "bar-mleczny",
+          },
+        },
       ],
     }),
   ],
