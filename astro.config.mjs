@@ -57,6 +57,12 @@ export default defineConfig({
             directory: "bar-mleczny",
           },
         },
+        {
+          label: "Grocery Shopping",
+          autogenerate: {
+            directory: "grocery-shopping",
+          },
+        },
       ],
     }),
   ],
