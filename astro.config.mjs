@@ -75,6 +75,12 @@ export default defineConfig({
             directory: "online-life",
           },
         },
+        {
+          label: "Recycling",
+          autogenerate: {
+            directory: "recycling",
+          },
+        },
       ],
     }),
   ],
