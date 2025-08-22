@@ -63,10 +63,16 @@ export default defineConfig({
             directory: "grocery-shopping",
           },
         },
-         {
+        {
           label: "Night Life",
           autogenerate: {
             directory: "night-life",
+          },
+        },
+        {
+          label: "Online Life",
+          autogenerate: {
+            directory: "online-life",
           },
         },
       ],
